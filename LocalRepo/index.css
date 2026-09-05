@@ -1,0 +1,20 @@
+#html,body{
+    background-color: antiquewhite;
+}
+body{
+    background-color: antiquewhite;
+    background-image: url('Screenshot From 2026-09-05 14-50-46.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+
+
+}
+
+#first a button{
+    height: 10px;
+    border: 2px solid rgb(48, 72, 180);
+
+}
